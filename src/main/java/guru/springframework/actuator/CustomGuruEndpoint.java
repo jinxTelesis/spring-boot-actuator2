@@ -1,7 +1,5 @@
 package guru.springframework.actuator;
 
-import org.apache.juli.logging.Log;
-import org.apache.tomcat.util.net.*;
 
 import java.util.List;
 
